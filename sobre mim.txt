@@ -4,7 +4,7 @@
 
 ・JS and Discord.js lover
 
-・Creator of the "mMoon" and "mMoon | Music" bot.
+・Creator of the "mMoon", "mMoon | Music, WitchStore and WitchStore Music" bot.
 
 ・Bot invitation:
 
