@@ -1,0 +1,12 @@
+:wave: Hi, i am Maghyy (José)
+
+・I am 15 years old, I live in Espírito Santo, Brazil
+
+・JS and Discord.js lover
+
+・Creator of the "mMoon" and "mMoon | Music" bot.
+
+・Bot invitation:
+
+・mMoon: https://discord.com/api/oauth2/authorize?client_id=1055131322261188619&permissions=8&scope=bot%20applications.commands
+・mMoon | Music: https://discord.com/api/oauth2/authorize?client_id=1055127810219446292&permissions=8&scope=bot%20applications.commands
